@@ -20,7 +20,7 @@ def parser_data():
         _type_: _description_
     """
     parser = argparse.ArgumentParser(
-        prog="TOELF words reviewer",
+        prog="TOFEL words reviewer",
         description="choose random or sorted method.",
         allow_abbrev=True,
     )
